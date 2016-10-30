@@ -1,4 +1,4 @@
-import Dog from './dog'
+import Dog from './dog';
 
 const toby = new Dog('Toby');
 
